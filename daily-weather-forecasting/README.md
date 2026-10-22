@@ -8,10 +8,8 @@ Beginner-friendly time-series project to predict next-day mean temperature from 
 ```text
 daily-weather-forecasting-lstm/
 ├── data/DailyWeatherSynthetic.csv
-├── src/train.py
-├── src/predict.py
+├── src/Weather Forcasting.ipynb
 ├── models/       # saved model/scalers after training
-├── outputs/      # metrics, plots and forecasts after running
 ├── requirements.txt
 ├── .gitignore
 └── README.md
