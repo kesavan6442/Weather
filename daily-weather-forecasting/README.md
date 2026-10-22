@@ -72,15 +72,3 @@ Predicted next-day temperature
 ## Metrics
 - **MAE:** average absolute prediction error in °C.
 - **RMSE:** square root of average squared error in °C; larger errors are penalized more.
-
-## Upload to GitHub
-Create a repository, extract this ZIP, and upload the project files. Or run:
-```bash
-git init
-git add .
-git commit -m "Add LSTM weather forecasting project"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/daily-weather-forecasting-lstm.git
-git push -u origin main
-```
-Replace `YOUR-USERNAME` with your GitHub username.
